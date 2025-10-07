@@ -2,7 +2,7 @@
 
 ## Overview
 
-Dispace is a platform that facilitates discovery spaces and collaboration matching for startup teams. It enables teams to create structured discovery workflows, manage tasks, and find the right collaborators through intelligent matching algorithms.
+Dispace is an AI-powered Discovery-as-a-Service platform that combines an intelligent AI Copilot with human expertise to guide founders, students, and product teams through structured, personalized discovery journeys. From breaking down raw ideas into hypotheses and identifying potential risks, to generating tailored research tasks and connecting users with expert feedback, Dispace helps innovators move faster, think critically, and build with confidence—turning uncertainty into actionable insights.
 
 ### Core Functionalities
 
