@@ -12,7 +12,7 @@ Dispace is a platform that facilitates discovery spaces and collaboration matchi
 ### Base URL
 
 ```
-https://api.dispace.io/v1
+https://api.dispace.tech/v1
 ```
 
 ---
